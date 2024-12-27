@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in React Router v6 related to the catch-all route ('*').  When navigating to a route that doesn't exist, the catch-all route fails to render, resulting in a blank page.  The solution provided addresses this issue, ensuring the catch-all route functions correctly.
